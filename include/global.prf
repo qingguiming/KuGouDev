@@ -1,0 +1,6 @@
+#define the global vari
+INCLUDE_DIR = $$PWD
+INCLUDEPATH += $$INCLUDE_DIR
+BIN_DIR = $$PWD/../bin
+LIB_DIR = $$PWD/../lib
+SRC_DIR = $$PWD/../src
